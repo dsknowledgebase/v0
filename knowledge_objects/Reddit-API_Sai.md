@@ -1,7 +1,8 @@
-**Reddit API
+**Reddit API**
 
 
 **What is the Reddit API?**
+
 Data scientists often look to social media platforms as places to draw data from. It’s really the perfect
 place — there’s loads of data available, all free and open to the public. Reddit.com is a site built for
 discussions and posts about topics, called ‘subreddits’, and it’s used daily by millions of users. Reddit
@@ -36,13 +37,16 @@ https://www.geeksforgeeks.org/python-praw-python-reddit-api-wrapper/
 **Strengths**
 
 ● Lots of built in functionalities
+
 ● Easy to use
+
 ● Can be used in 8 different ways python,http etc
 
 
 **Limitations**
 
 ● Data which is obtained needs a lot of preprocessing
+
 ● There is a limit for the number of records which can be retrieved
 
 
@@ -51,6 +55,7 @@ https://www.geeksforgeeks.org/python-praw-python-reddit-api-wrapper/
 
 There are different ways to retrieve reddit data using reddit API but there is no alternative option for
 this.
+
 Updated on:- 11/09/2020
 
 
