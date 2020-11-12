@@ -1,10 +1,10 @@
 # Data Science &amp; Telematics
 
-What is Telematics?
+### What is Telematics?
 
 TELEMATICS is a method of monitoring an asset (car, truck, heavy equipment or even ship) by using GPS and onboard diagnostics to record movements on a computerized map. This information from the vehicle like speed, idling, fuel usage, tire pressure etc. can mean saving on maintenance cost by better monitoring vehicles or improving fuel efficiency by learning more about driving habits. All of this describes the universe of telematics, also known as GPS fleet tracking.
 
-How Telematics works and what is the role of Data Science?
+### How Telematics works and what is the role of Data Science?
 
 To track assets, information from the vehicle is recorded via a small, telematics device — also called a black box —  that plugs into the [OBD II](https://www.geotab.com/blog/obd-ii/) or CAN-BUS port. A SIM card and modem in the device enables communication on the cellular network.
 
@@ -16,7 +16,7 @@ To track assets, information from the vehicle is recorded via a small, telematic
 
 The telematics companies have access to a large amount of data that, with the help of data analytics, can be extremely useful in understanding metric trends from real time data feeds. And since the volume data is huge and every increasing, proper management becomes essential which warrants usage of data science and machine learning technologies for predictive analysis and even setting up Big Data ecosystems.
 
-What skills do I need?
+### What skills do I need?
 
 - **Domain Knowledge:** Domain knowledge forms an essential ingredient for a data scientist to make effective use of data. It can be best gained on the job which is a long and intensive process. Reading and research on telematics related topics can also help in augmenting the learning process.
 - **Presentation and Communication:** Effective representation and communication of the work done is essential to realize the full potential and recognition of the work done.
@@ -26,7 +26,7 @@ What skills do I need?
 - **Time series:** Given that telematics is time-series data, the problems are formulated as a time series prediction tasks to exploit the embedded sequential information. The robustness of the model on noisy and anomalous data is also investigated. Conclusions are derived based on variations in sequential data.
 - **Machine Learning:** Machine learning is increasingly being applied to leverage availability of massive datasets and cheap compute power. Machine learning uses learning techniques to allow computers to learn from data without programming explicit rules.
 
-What specific tools should I focus on learning?
+### What specific tools should I focus on learning?
 
 - Python
 - Python libraries for Data Science - Pandas, Numpy, Scipy, Scikit-learn
