@@ -2,11 +2,11 @@
 
 ### What is R?
 
-R is a [programming language](https://en.wikipedia.org/wiki/Programming_language) and [free software](https://en.wikipedia.org/wiki/Free_software) environment for [statistical computing](https://en.wikipedia.org/wiki/Statistical_computing) and graphics supported by the R Foundation for Statistical Computing.
+R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.
 
 ### Who should use R?
 
-The R language is widely used among [statisticians](https://en.wikipedia.org/wiki/Statistician) and [data miners](https://en.wikipedia.org/wiki/Data_mining) for developing [statistical software](https://en.wikipedia.org/wiki/Statistical_software) and [data analysis](https://en.wikipedia.org/wiki/Data_analysis).
+The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
 
 ### When should I use R?
 
