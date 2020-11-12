@@ -1,21 +1,21 @@
 # Python
 
-What is Python?
+### What is Python?
 
 Python is high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
 
-Who should use Python?
+### Who should use Python?
 
 Python boasts of wide variety of libraries which makes it good fit for software developers and data scientists.
 
-When should I use Python?
+### When should I use Python?
 
 - For creating analytic software.
 - For Machine Learning and NLP
 - For integration with other software service or applications
 - For visualizations
 
-How do I learn about it?
+### How do I learn about it?
 
 Useful links to learn basics of python
 
@@ -34,7 +34,7 @@ Data Science
 - [https://realpython.com/tutorials/data-science/](https://realpython.com/tutorials/data-science/)
 - [https://www.tutorialspoint.com/python\_data\_science/index.htm](https://www.tutorialspoint.com/python_data_science/index.htm)
 
-Strengths
+### Strengths
 
 - Readable and Maintainable Code
 - Easy to learn and get started
@@ -43,7 +43,7 @@ Strengths
 - Wide range of libraries and frameworks available for software development and data science
 - Wide online user community support
 
-Limitations
+### Limitations
 
 - Python is not that well suited for web development compared to languages like Java
 - Python support for statistical modelling is not as good as R.
