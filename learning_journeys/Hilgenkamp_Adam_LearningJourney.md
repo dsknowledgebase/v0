@@ -4,7 +4,7 @@ October 4, 2020
 
 Every data scientist has their own unique learning journey. It may involve a wide range of topics or the journey may lead down a specific path of expertise. In this article I wanted to provide my learning journey as one example of a possible path. I will also talk about or share some projects to give some context to the journey. My target audience for this article is students finishing their undergraduate degree or those that are just getting started with data science. That being said, I think that it may be interesting for those who have been in the industry for a while as well.  
 
-![]()
+![LearningJourneyTimeline](images/ah_timeline.png)
 
 The timeline above is a rough representation of my journey. It highlights some of the key tools that I have learned and have used in some of my projects. There are additional concepts and details behind each one of these tools but I wanted to provide a high level summary. I have also made a point to separate out the education component of my journey. The reason for this is to show how I started to learn some of the core concepts organically and then how my learning journey was accelerated through grad school. During this entire time period I was working full time in Finance. Balancing work and school was difficult at times but I think the benefits of applying what I was learning outweighed the costs. This choice depends on a lot of factors and may not always be possible but for me I found it to be helpful.
 
