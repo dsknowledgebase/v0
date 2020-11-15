@@ -32,4 +32,4 @@ The job of the Generator is to retrieve random noise from a latent space and con
 
 ### Code
 
-I have implemented a GAN from scratch using tensorflow. The code is well commented in order to explain what each line of code accomplishes. The code and its output can be found on my github at [https://github.com/siddmirjank/Computer-Vision/tree/master/Fake%20Image%20Generator/tensorflow](https://github.com/siddmirjank/Computer-Vision/tree/master/Fake%20Image%20Generator/tensorflow)
+I have implemented a GAN from scratch using tensorflow. The code is well commented in order to explain what each line of code accomplishes. The code and its output can be found on my [github](https://github.com/siddmirjank/Computer-Vision/tree/master/Fake%20Image%20Generator/tensorflow)
