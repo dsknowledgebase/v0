@@ -3,9 +3,11 @@ Welcome to Data Science knowledge base
 
 ![alt text](/Images/DataScience.jpg)
 
-An initiative started by Fall 2020 Data Science in Practice Indiana University students under the guidance of Prof. David Wild and Project Mentor Kyle Stirling.
+An initiative started by Fall 2020 Data Science in Practice Indiana University students under the guidance   
+of Prof. David Wild and Project Mentor Kyle Stirling.
 
-This repository is useful to anyone engaged in data science activities in any domain area to acquire or hone the skills they require. The intent is to provide a one-stop destination for all the Data Science related topics.
+This repository is useful to anyone engaged in data science activities in any domain area to acquire or hone  
+the skills they require. The intent is to provide a one-stop destination for all the Data Science related topics.
 
 The repository consists of
 
