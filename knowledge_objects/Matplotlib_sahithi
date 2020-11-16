@@ -1,0 +1,50 @@
+**Matplotlib**
+
+What is Matplotlib?
+
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible. Create. Develop publication-quality plots with just a few lines of code. Matplotlib ships with several add-on toolkits, including 3D plotting, axes helpers, and axis helpers.
+
+Who should use Matplotlib?
+
+Some people use matplotlib interactively from the python shell and have plotting windows pop up when they type commands. Some people run Jupyter notebooks and draw inline plots for quick data analysis. Others embed matplotlib into graphical user interfaces like wxpython or pygtk to build rich applications. It is one of the best tools for data scientists in order to present results.
+
+When should I use Matplotlib?
+
+- You need to deliver a dashboard for your project
+- You need to have some inline plots for quick analysis
+- You want to make your analysis interactive
+
+How do I learn about it?
+
+[https://matplotlib.org/tutorials/introductory/pyplot.html](https://matplotlib.org/tutorials/introductory/pyplot.html)
+
+[https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
+
+[https://www.tutorialspoint.com/matplotlib/index.htm](https://www.tutorialspoint.com/matplotlib/index.htm)
+
+[https://pbpython.com/effective-matplotlib.html](https://pbpython.com/effective-matplotlib.html)
+
+[https://www.udemy.com/course/matplotlib-with-python/](https://www.udemy.com/course/matplotlib-with-python/)
+
+Strengths
+
+- Free and easy to use
+- Lots of training resources available
+- Strong user community to get your answers
+
+Limitations
+
+- Unlike other visualization tools, one needs to know python programming to use matplotlib
+- Not very well suited for some complex time series plots
+
+Alternative options
+
+The alternative options are -
+
+- Tableau
+- Bokesh
+- GGplot2
+- Bokeh
+- Matlab
+
+Updated on:- 11/16/2020
