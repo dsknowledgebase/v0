@@ -50,3 +50,6 @@ The following are some important resources for learning twitter API
 **Alternative options :-**
 
 There are no alternative options of crawling data from twitter except twitter API
+
+
+Updated on - 11/16/2020
