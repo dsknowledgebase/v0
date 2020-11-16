@@ -24,9 +24,9 @@ Also ACloudGuru has some very good courses
 
 Strengths
 
-- AWS provides very good documentation on how to use EC2.
-- EC2 is easy to script.
-- It is widely used and has a huge community.
+- AWS provides very good documentation on how to use EC2
+- EC2 is easy to script
+- It is widely used and has a huge community
 
 Limitations
 
@@ -34,7 +34,7 @@ Limitations
 - Billing can be confusing sometimes.
 - Common cloud computing problems.
 
-Alternative options
+Alternative options 
 
 - Google Compute Engine
 - DigitalOcean Droplets
