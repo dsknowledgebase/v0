@@ -1,5 +1,5 @@
-# Data Science Knowledge Base
-Welcome to Data Science knowledge base
+# Data Science Knowledge Base Forum
+Welcome to Data Science knowledge Base Forum
 
 ![alt text](/Images/DataScience.jpg)
 
@@ -14,6 +14,7 @@ The repository consists of
 * Data Science Learning Journeys
 * Data Science Knowledge Objects
 * Data Science Domain Objects
+* Data Science Project Examples
 
 #### Tips:
 
