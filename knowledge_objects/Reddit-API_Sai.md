@@ -36,18 +36,18 @@ https://www.geeksforgeeks.org/python-praw-python-reddit-api-wrapper/
 
 **Strengths**
 
-● Lots of built in functionalities
+* Lots of built in functionalities
 
-● Easy to use
+* Easy to use
 
-● Can be used in 8 different ways python,http etc
+* Can be used in 8 different ways python,http etc
 
 
 **Limitations**
 
-● Data which is obtained needs a lot of preprocessing
+* Data which is obtained needs a lot of preprocessing
 
-● There is a limit for the number of records which can be retrieved
+* There is a limit for the number of records which can be retrieved
 
 
 
