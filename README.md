@@ -1,7 +1,25 @@
-# Welcome!
-Welcome to Data Science knowledge base
+# Data Science Knowledge Base Forum
+Welcome to Data Science knowledge Base Forum
 
-Helpful Markdown tips and tricks: https://www.markdownguide.org/basic-syntax/
+![alt text](/Images/DataScience.jpg)
 
+An initiative started by Fall 2020 Data Science in Practice Indiana University students under the guidance   
+of Prof. David Wild and Project Mentor Kyle Stirling.
 
+This repository is useful to anyone engaged in data science activities in any domain area to acquire or hone  
+the skills they require. The intent is to provide a one-stop destination for all the Data Science related topics.
+
+The repository consists of
+
+* Data Science Learning Journeys
+* Data Science Knowledge Objects
+* Data Science Domain Objects
+* Data Science Project Examples
+
+#### Tips:
+
+Helpful Markdown tips and tricks: https://www.markdownguide.org/basic-syntax/  
 Use this tool to convert word docs to .md https://word2md.com/
+
+#### Contact information:  
+Email: djwild@indiana.edu
