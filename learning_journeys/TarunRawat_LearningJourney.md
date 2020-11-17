@@ -2,8 +2,8 @@
 
 ### Learning Journey (Data Science Skills)
 
-![LearningJourneyDataScienceSkillsTimeline](images/LearningJourney_TarunRawat_1.JPG)
+![LearningJourneyDataScienceSkillsTimeline](images/LearningJourney_TarunRawat_1.png)
 
 ### Learning Journey (Non-Data Science Skills)
 
-![LearningJourneyNonDataScienceSkillsTimeline](images/LearningJourney_TarunRawat_2.JPG)
+![LearningJourneyNonDataScienceSkillsTimeline](images/LearningJourney_TarunRawat_2.png)
