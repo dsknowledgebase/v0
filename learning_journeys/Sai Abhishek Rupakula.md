@@ -1,6 +1,6 @@
-**Rupakula Sai Abhishek&#39;s Learning Journey.
+**Rupakula Sai Abhishek&#39;s Learning Journey**
 
-Undergraduate School:-
+*Undergraduate School:-*
 
 The Following are the tools/Technologies I learnt during my undergraduate degree.
 
