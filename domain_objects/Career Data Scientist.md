@@ -1,5 +1,5 @@
 # A Learning guide for a Career Data Scientist
-Author : Pranav Gujarathi (pgujarat@iu.edu / www.gitub.com/pranavdg1997)
+Author : Pranav Gujarathi ([Email](pgujarat@iu.edu)|[Github](www.gitub.com/pranavdg1997)|[LinkedIn](www.linkedin.com/in/pranav-gujarathi))
 
 ## What is this Guide?
 This is guide for any Data Science enthusiast to start their journey in this field. Specifically, this is meant for those who don't just wish to use Data Science for a particular application, but rather who want to study the subject itself and build a wholesome career in it. All views expressed are mine alone and subjective.\
