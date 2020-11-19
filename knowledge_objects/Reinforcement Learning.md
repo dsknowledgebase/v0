@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-Author : Pranav Gujarathi (pgujarat@iu.edu)
+Author : Pranav Gujarathi ([Email](pgujarat@iu.edu)|[Github](www.gitub.com/pranavdg1997)|[LinkedIn](www.linkedin.com/in/pranav-gujarathi))
 
 ## What is Reinforcement Learning?
 
