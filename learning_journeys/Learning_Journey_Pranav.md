@@ -1,5 +1,5 @@
 # Learning Journey :
-From a Electrical Engineering sophomore to a Data Science professional and then to a Deep Learning researcher.\
+From a Electrical Engineering sophomore to a Data Science professional and then to a Deep Learning researcher.
 
 Author : Pranav Gujarathi ([Email](pgujarat@iu.edu)|[Github](www.gitub.com/pranavdg1997)|[LinkedIn](www.linkedin.com/in/pranav-gujarathi))
 
