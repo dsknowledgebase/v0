@@ -7,7 +7,7 @@ Author : Pranav Gujarathi ([Email](pgujarat@iu.edu)|[Github](www.gitub.com/prana
 - RL is a general-purpose framework for sequential decision-making.
 - It is a field of Machine Learning which deals with an unsupervised task which involves learning strategies to maximize a cumulative reward and learning on-the-go.
 - It is usually described as an agent interacting with an unknown environment.
-- To give a simple example by contrast, consider self-driving cars. The supervised Machine Learning approach is to collect a dataset of observations vs ideal actions, and map a model (like a Neural Network) to approximate the prediction of ideal action. The RL way of doing this is to conduct various simulations of the experiment, and learn solely based on observations and &#39;rewards&#39; which are basically measures of how favourable each outcome is. The drawback is, we need to conduct a large amount of experiments and simulations. The advantage is, we do not need any training data, and we have the opportunity to learn _the_ optimal strategy, ie, and be better than a human driver. One can also say that while supervised ML algorithms are used for function approximation, RL is a framework for learning strategies and optimization.
+- To give a simple example by contrast, consider self-driving cars. The supervised Machine Learning approach is to collect a dataset of observations vs ideal actions, and map a model (like a Neural Network) to approximate the prediction of ideal action. The RL way of doing this is to conduct various simulations of the experiment, and learn solely based on observations and &#39;rewards&#39; which are basically measures of how favourable each outcome is. The drawback is, we need to conduct a large amount of experiments and simulations. The advantage is, we do not need any training data, and we have the opportunity to learn _the_ optimal strategy, ie, be better than a human driver. One can also say that while supervised ML algorithms are used for function approximation, RL is a framework for learning strategies and optimization.
 
 ## Who would need RL?
 
@@ -16,7 +16,7 @@ Author : Pranav Gujarathi ([Email](pgujarat@iu.edu)|[Github](www.gitub.com/prana
 
 ## What are the modern practical applications of Reinforcement Learning?
 
-Since, RL requires a lot of data, therefore it is most applicable in domains where simulated data is readily available like gameplay, robotics.
+Since, RL requires a lot of data, it is therefore most applicable in domains where simulated data is readily available like gameplay, robotics.
 
 - RL is quite widely used in building AI for playing computer games. [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/) is the first computer program to defeat a world champion in the ancient Chinese game of Go. Others include ATARI games, Backgammon ,etc
 - In robotics and industrial automation, RL is used to enable the robot to create an efficient adaptive control system for itself which learns from its own experience and behavior. [DeepMind](https://deepmind.com/research/publications/deep-reinforcement-learning-robotic-manipulation/)&#39;s work on Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Policy updates is a good example of the same. 
