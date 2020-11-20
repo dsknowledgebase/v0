@@ -9,7 +9,7 @@ This initiative was started during Fall 2020 for the 'Data Science in Practice' 
 
 The contributions have been divided into 4 types - 
 
-* Data Science Learning Journeys- These are personal accounts of a diverse group of people describing their learning journeys in this subject, the topics and tools they have covered and how they about learning them.
+* *Data Science Learning Journeys*- These are personal accounts of a diverse group of people describing their learning journeys in this subject, the topics and tools they have covered and how they about learning them.
 * Data Science Knowledge Objects - These are resources to get started in particular topic, programming language, libraries, packages etc and lists resources to learn them.
 * Data Science Domain Objects - These are domain focused learning guides for Data Science application areas - whether you want to make a career in healthcare, finance or become a career Data Scientist.
 * Data Science Project Objects - These are hands-on tutorials with codes as well as writen matter, where a subject is approached in the form of a project or case study.
