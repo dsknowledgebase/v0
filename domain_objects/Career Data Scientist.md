@@ -5,7 +5,7 @@ Author : Pranav Gujarathi ([Email](pgujarat@iu.edu)|[Github](www.gitub.com/prana
 This guide is meant for any Data Science enthusiast to start their journey in this field. Specifically, this is meant for those who don't just wish to use Data Science for a particular application, but rather who want to study the subject itself and build a wholesome career in it. All views expressed are mine alone and subjective.\
 It is important to note that being an enthusiast and being an aspirational career Data Scientist are two different things, the latter means you have chosen this as your priority, in learning and future career paths, preferrably exclusively. 
 
-### Whatg is unique about Data Science?
+### What is unique about Data Science?
 This subject, unlike established streams is a new and emerging one, although foundations and building blocks have been around for some time. A Data Scientist needs to be a master of fundamental principles, yet someone who is well read about cutting edge research and can turn algorithms from newly published journals to a production level code. A Data Scientist needs to, as the need presents, put on the hat of a Software Engineer, a Researcher, a Consultant or a Statistician, and sometimes even more than one. While there are no decisive set of programming tools, packages, concepts and topics that can be deemed as necessary or sufficient to be Data Scientist, if one were to make such a list it would look differently for 2020 as compred to 2018 or even 2019. 
 
 ### Anything that should be known before starting?
